@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-25T17:05:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Welcome to Argyrios Zezos’s personal web page!</title><subtitle>I am very pleased that you have chosen to visit this site which will be constantly updated with my personal projects, information and anything that i deem interesting.</subtitle><entry><title type="html">Hello Jekyll!</title><link href="http://localhost:4000/first-post/2023/02/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hello Jekyll!" /><published>2023-02-23T14:50:35+02:00</published><updated>2023-02-23T14:50:35+02:00</updated><id>http://localhost:4000/first-post/2023/02/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/first-post/2023/02/23/welcome-to-jekyll.html"><![CDATA[<p>In order to build my new personal web page, i decided to use <code class="highlighter-rouge">Jekyll</code>, which is a popular static site generator.</p>
+
+<p>It powers <code class="highlighter-rouge">GitHub Pages</code> and integrates well within deployment on <code class="highlighter-rouge">GitHub</code>.</p>
+
+<p>Moreover i recently gained experience on the <code class="highlighter-rouge">Ruby on Rails</code> framework which will make modifying and maintaining the site a breeze.</p>
+
+<p>Here is a demo of its snippet highlighting</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hello</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hello, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hello</span><span class="p">(</span><span class="s1">'Web'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Web' to STDOUT.</span></code></pre></figure>]]></content><author><name></name></author><category term="first-post" /><summary type="html"><![CDATA[In order to build my new personal web page, i decided to use Jekyll, which is a popular static site generator.]]></summary></entry></feed>
