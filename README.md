@@ -1,3 +1,2 @@
 # zezosarg.github.io
-My personal web page, available at [website]
-[website]: https://stackoverflow.com
+My personal web page, available [here](https://stackoverflow.com)
